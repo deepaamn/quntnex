@@ -1,0 +1,27 @@
+body{
+    background-color:lightpink;
+}
+title{
+    color: deepskyblue;
+    font-size: large;
+    font-style: inherit;
+}
+
+h2{
+    color: deeppink;
+    font-style: oblique;
+}
+
+form{
+background-color: white;
+height: max-content;
+}
+
+
+large-button{
+    width:150px;
+    height:50px;
+    padding:100px;
+}
+
+   
